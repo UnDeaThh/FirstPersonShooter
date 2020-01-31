@@ -5502,3 +5502,20 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.01.31-10.58.38:685][846]LogPlayLevel: Display: Destroying online subsystem :Context_27
 [2020.01.31-10.59.08:342][765]BlueprintLog: New page: Compile SwatAnim_BP
 [2020.01.31-10.59.08:544][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.01.31-11.02.06:831][510]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/FirstPersonShooter/Shooter/Saved/SwatAnim_BP9C6E92334E09B07AE01B51A537DE9301.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/FirstPersonShooter/Shooter/Content/ThirdPersonBP/Blueprints/Swat/SwatAnim_BP.uasset'
+[2020.01.31-11.02.06:842][510]AssetCheck: New page: Asset Save: SwatAnim_BP
+[2020.01.31-11.02.06:842][510]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonBP/Blueprints/Swat/SwatAnim_BP.SwatAnim_BP
+[2020.01.31-11.02.14:012][ 24]LogSlate: Window 'SwatAnim_BP' being destroyed
+[2020.01.31-11.02.14:016][ 24]LogSlate: Window 'SwatAnim_BP' being destroyed
+[2020.01.31-11.02.14:038][ 24]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.02.14:038][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-11.02.14:042][ 24]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.02.14:042][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-11.02.14:144][ 24]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.02.14:144][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-11.02.15:142][133]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.01.31-11.02.15:328][133]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/FirstPersonShooter/Shooter/Saved/ThirdPersonExampleMap3A2D59534FF10DADFE78E1B939316130.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/FirstPersonShooter/Shooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.31-11.02.15:397][133]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/FirstPersonShooter/Shooter/Saved/ThirdPersonExampleMap_BuiltData07661BD548368C67F3A6C2A3212AD0D3.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/FirstPersonShooter/Shooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.31-11.02.15:412][133]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.31-11.02.15:412][133]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.31-11.02.15:413][133]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
