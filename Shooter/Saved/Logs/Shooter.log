@@ -5500,3 +5500,5 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.01.31-10.58.38:625][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.01.31-10.58.38:628][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
 [2020.01.31-10.58.38:685][846]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.01.31-10.59.08:342][765]BlueprintLog: New page: Compile SwatAnim_BP
+[2020.01.31-10.59.08:544][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
