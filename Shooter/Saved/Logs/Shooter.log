@@ -5519,3 +5519,49 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.01.31-11.02.15:412][133]AssetCheck: New page: Asset Save: multiple assets
 [2020.01.31-11.02.15:412][133]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.01.31-11.02.15:413][133]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.01.31-11.02.37:063][707]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/ThirdPersonBP/Blueprints/Swat/Swat_WalkRun_BS.Swat_WalkRun_BS
+[2020.01.31-11.02.37:067][707]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.31-11.02.37:157][707]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.31-11.02.37:344][707]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.01.31-11.02.38:773][855]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/FirstPersonShooter/Shooter/Saved/Swat_WalkRun_BS12BB52E545A5EF15427829AC88518991.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/FirstPersonShooter/Shooter/Content/ThirdPersonBP/Blueprints/Swat/Swat_WalkRun_BS.uasset'
+[2020.01.31-11.02.38:783][855]AssetCheck: New page: Asset Save: Swat_WalkRun_BS
+[2020.01.31-11.02.38:783][855]LogContentValidation: Display: Validating BlendSpace /Game/ThirdPersonBP/Blueprints/Swat/Swat_WalkRun_BS.Swat_WalkRun_BS
+[2020.01.31-11.02.42:053][218]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/FirstPersonShooter/Shooter/Saved/Swat_WalkRun_BS6F15F9564CAFB9A1574275A41CDC8A2E.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/FirstPersonShooter/Shooter/Content/ThirdPersonBP/Blueprints/Swat/Swat_WalkRun_BS.uasset'
+[2020.01.31-11.02.42:062][218]AssetCheck: New page: Asset Save: Swat_WalkRun_BS
+[2020.01.31-11.02.42:063][218]LogContentValidation: Display: Validating BlendSpace /Game/ThirdPersonBP/Blueprints/Swat/Swat_WalkRun_BS.Swat_WalkRun_BS
+[2020.01.31-11.02.43:173][338]LogSlate: Window 'Swat_WalkRun_BS' being destroyed
+[2020.01.31-11.02.43:177][338]LogSlate: Window 'Swat_WalkRun_BS' being destroyed
+[2020.01.31-11.02.43:177][338]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.02.43:177][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-11.02.43:257][338]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.02.43:257][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-11.02.45:313][579]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Blueprints/Swat/SwatAnim_BP.SwatAnim_BP
+[2020.01.31-11.02.45:318][579]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.31-11.02.45:595][579]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.31-11.02.47:227][739]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/FirstPersonShooter/Shooter/Saved/SwatAnim_BP1DCEEFE64CC45251E3DB538BF379D09C.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/FirstPersonShooter/Shooter/Content/ThirdPersonBP/Blueprints/Swat/SwatAnim_BP.uasset'
+[2020.01.31-11.02.47:238][739]AssetCheck: New page: Asset Save: SwatAnim_BP
+[2020.01.31-11.02.47:238][739]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonBP/Blueprints/Swat/SwatAnim_BP.SwatAnim_BP
+[2020.01.31-11.02.50:911][159]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/Swat/Swat.Swat
+[2020.01.31-11.02.50:914][159]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.01.31-11.02.50:956][159]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.01.31-11.02.52:219][267]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/FirstPersonShooter/Shooter/Saved/Swat8B5138384536A9C31671AF81E4E4AF47.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/FirstPersonShooter/Shooter/Content/ThirdPersonBP/Blueprints/Swat/Swat.uasset'
+[2020.01.31-11.02.52:242][267]AssetCheck: New page: Asset Save: Swat
+[2020.01.31-11.02.52:242][267]LogContentValidation: Display: Validating SkeletalMesh /Game/ThirdPersonBP/Blueprints/Swat/Swat.Swat
+[2020.01.31-11.02.54:307][507]LogSlate: Window 'Swat' being destroyed
+[2020.01.31-11.02.54:311][507]LogSlate: Window 'Swat' being destroyed
+[2020.01.31-11.02.54:320][507]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.02.54:320][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-11.02.54:324][507]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.02.54:324][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-11.02.54:410][507]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.02.54:410][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-11.02.54:417][507]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.02.54:417][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.31-11.02.59:944][147]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.01.31-11.03.02:802][381]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/FirstPersonShooter/Shooter/Saved/ThirdPersonCharacter5E7F6D1A4AAB9B708A514492F11CECCF.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/FirstPersonShooter/Shooter/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.01.31-11.03.02:818][381]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.01.31-11.03.02:818][381]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.01.31-11.03.03:953][490]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.01.31-11.03.03:957][490]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.01.31-11.03.03:962][490]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.01.31-11.03.03:962][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
